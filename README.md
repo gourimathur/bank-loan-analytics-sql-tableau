@@ -76,7 +76,8 @@ All insights were derived from SQL queries built on the **bank_loan_data** table
    - Treemap visualizing loan distribution across ownership statuses: Own, Rent, Mortgage, etc.
 
 **Filters Used**
-Interactive filters applied in Tableau:
+
+- Interactive filters applied in Tableau:
 • Purpose  
 • Grade  
 • Verification Status  
@@ -84,7 +85,8 @@ Users can modify these filters to view segmented insights (e.g., Grade A loans o
 
 
 **Conclusion**
-This project demonstrates how SQL and Tableau can be combined to build a complete data analysis and visualization pipeline for financial institutions.
+
+- This project demonstrates how SQL and Tableau can be combined to build a complete data analysis and visualization pipeline for financial institutions.
 The dashboard empowers banks to:
 • Monitor portfolio performance  
 • Detect risk patterns early  
